@@ -19,14 +19,6 @@
 			"notests": true
 		},
 		{
-			"importpath": "github.com/alecthomas/log4go",
-			"repository": "https://github.com/alecthomas/log4go",
-			"vcs": "",
-			"revision": "e5dc62318d9bd58682f1dceb53a4b24e8253682f",
-			"branch": "master",
-			"notests": true
-		},
-		{
 			"importpath": "github.com/gorilla/schema",
 			"repository": "https://github.com/gorilla/schema",
 			"vcs": "",
