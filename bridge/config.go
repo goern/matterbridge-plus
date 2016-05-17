@@ -3,7 +3,7 @@ package bridge
 import (
 	"gopkg.in/gcfg.v1"
 	"io/ioutil"
-	"log"
+	log "github.com/Sirupsen/logrus"
 )
 
 type Config struct {
